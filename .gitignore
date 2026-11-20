@@ -1,0 +1,8 @@
+/build*/
+/dist/
+/.vs/
+/CMakeUserPresets.json
+/verification-*/
+/*-test-artifacts/
+__pycache__/
+*.pyc
